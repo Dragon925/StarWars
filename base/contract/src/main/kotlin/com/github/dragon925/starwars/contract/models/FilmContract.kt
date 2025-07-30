@@ -40,22 +40,22 @@ interface FilmContract : ModelContract {
     /**
      *  A list of starship resource IDs that are in this film.
      */
-    val starships: List<Int>
+    val starshipIds: List<Int>
 
     /**
      *  A list of vehicle resource IDs that are in this film.
      */
-    val vehicles: List<Int>
+    val vehicleIds: List<Int>
 
     /**
      *  A list of people resource IDs that are in this film.
      */
-    val characters: List<Int>
+    val characterIds: List<Int>
 
     /**
      *  A list of planet resource IDs that are in this film.
      */
-    val planets: List<Int>
+    val planetIds: List<Int>
 
     /**
      *  The hypermedia ID of this resource.
