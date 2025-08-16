@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_description">Clear query</string>
+    <string name="search_description">Search field</string>
+    <string name="expanded_search_description">Expanded search description</string>
+
+    <string name="characters">Characters</string>
+    <string name="films">Films</string>
+    <string name="planets">Planets</string>
+    <string name="species">Species</string>
+    <string name="starships">Starships</string>
+    <string name="vehicles">Vehicles</string>
+
+    <string name="search_characters">Search character</string>
+    <string name="search_films">Search film</string>
+    <string name="search_planets">Search planet</string>
+    <string name="search_species">Search specie</string>
+    <string name="search_starships">Search starship</string>
+    <string name="search_vehicles">Search vehicle</string>
+
+    <string name="about">About</string>
+
+    <string name="back">Back</string>
+
+    <string name="empire">Empire</string>
+    <string name="rebel">Rebel</string>
+</resources>
