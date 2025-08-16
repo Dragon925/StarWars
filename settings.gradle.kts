@@ -25,3 +25,4 @@ rootProject.name = "StarWars"
 include(":app")
 include(":base:contract")
 include(":base:core")
+include(":base:uikit")
