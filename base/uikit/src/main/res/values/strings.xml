@@ -18,6 +18,23 @@
     <string name="search_starships">Search starship</string>
     <string name="search_vehicles">Search vehicle</string>
 
+    <string name="characters_count">Characters: %1$d</string>
+    <string name="films_count">Films: %1$d</string>
+    <string name="planets_count">Planets: %1$d</string>
+    <string name="species_count">Species: %1$d</string>
+    <string name="starships_count">Starships: %1$d</string>
+    <string name="vehicles_count">Vehicles: %1$d</string>
+
+    <string name="episode_num">Episode %1$s</string>
+    <string name="homeworld">Homeworld</string>
+    
+    <string name="release_date">Release date: %1$s</string>
+    <string name="birth_year">Birth year: %1$s</string>
+    <string name="classification">Classification: %1$s</string>
+    <string name="climate">Climate: %1$s</string>
+    <string name="mglt">MGLT: %1$s</string>
+    <string name="max_atmosphering_speed">Max atmosphering speed: %1$s</string>
+
     <string name="about">About</string>
 
     <string name="back">Back</string>
