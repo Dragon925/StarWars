@@ -41,6 +41,8 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.bundles.android.ui.compose)
+    implementation(libs.androidx.lifecycle.viewmodel.ktx)
+    implementation(libs.kotlinx.collections.immutable)
 
     testImplementation(libs.junit)
 
